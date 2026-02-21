@@ -107,7 +107,7 @@ const Projects = () => {
 
         - Choose Your interval: Set how often you want your theme to refresh (e.g., every day, every other week)
         - Random Themes: Set your theme randomly after the set time interval. Choose from a list of themes you provide or from all the themes installed`,
-        link: "https://github.com/LinkUpGames/jumble.nvim",
+        link: "https://github.com/nutt-y/jumble.nvim",
         images: [
           "https://private-user-images.githubusercontent.com/71405160/432564955-418c4550-4caf-462a-b145-c50a251f5d02.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA2MzM2NzgsIm5iZiI6MTc1MDYzMzM3OCwicGF0aCI6Ii83MTQwNTE2MC80MzI1NjQ5NTUtNDE4YzQ1NTAtNGNhZi00NjJhLWIxNDUtYzUwYTI1MWY1ZDAyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDIzMDI1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1OGI1MGE0NGRhZWZjM2JmNmY1YWIyNDAxN2QzZTQyMDA0MTY2NmYzNzYxNjJlODk5ZGU4ODhjZjk0MmMyNjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-n4jES5GFTimZY-ppKy5UrBKYy3K8aBWmGZh_41nJWk",
         ],
@@ -120,7 +120,7 @@ const Projects = () => {
       info: {
         title: "Notification System",
         summary: `This is a small scale architecture design for Duolingo's notification system. This project is divided into 4 main components: server, batch job, database, client. The project was programmed in C, Go, Python, and Typescript`,
-        link: "https://github.com/LinkUpGames/notification-system",
+        link: "https://github.com/nutt-y/notification-system",
         images: [],
         widget: <div />,
       },

@@ -25,7 +25,7 @@ const SocialContent = () => {
     },
     {
       icon: <FaGithub size="100%" color="#05d9e8" />,
-      link: "https://github.com/LinkUpGames",
+      link: "https://github.com/nutt-y",
     },
   ];
 
